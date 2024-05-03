@@ -9,6 +9,12 @@
     <script src='main.js'></script>
 </head>
 <body>
-    
+    <form action="">
+        <input type="text" name="num1" placeholder="Coleque o primeiro numero aqui">
+        <input type="text" name="num2" placeholder="Coloque o segundo numero aqui">
+        <input type="button" value="Adição">
+        <input type="button" value="subtração">
+        <input type="reset" value="Limpar">
+    </form>
 </body>
 </html>
