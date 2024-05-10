@@ -1,3 +1,9 @@
+<?php
+
+    echo "Olá Gabriel DESENVOLVA!";
+
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
